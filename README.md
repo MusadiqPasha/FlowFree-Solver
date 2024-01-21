@@ -30,7 +30,7 @@ Leveraging the power of the  `Z3 constraint solver` Z3 constraint solver, the bo
   
 ### Screenshots
 
-<img src='https://github.com/MusadiqPasha/FlowFree-Solver/blob/main/giff.gif'>
+<img src='https://github.com/MusadiqPasha/FlowFree-Solver/blob/main/demo.gif'>
 
 
 # Disclaimer
