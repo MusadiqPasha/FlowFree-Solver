@@ -27,8 +27,9 @@ Leveraging the power of the  `Z3 constraint solver` Z3 constraint solver, the bo
 - After you run the project , the program will detect the board dimensions and load the predifined co-ordinates of the board.
 - It'll automatically detect the colour of the Circle and feed's the matrix into the `Z3 solver` which use's `SAT` to solve the puzzle.
 - Finally It'll display the path to be taken for each colour and drag's the mouse over to those co-ordinates ultimately connecting the two pipes.
+- By default it will solve 10 Puzzle's in a row.
   
-### Screenshots
+### Demo
 
 <img src='https://github.com/MusadiqPasha/FlowFree-Solver/blob/main/demo.gif'>
 
