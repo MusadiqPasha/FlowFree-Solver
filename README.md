@@ -3,6 +3,10 @@ This Python bot is an automated solver for the popular puzzle game [Flow Free](h
 
 Leveraging the power of the  `Z3 constraint solver` Z3 constraint solver, the bot intelligently solves Flow Free puzzles by strategically connecting matching-colored pipes without any user input.
 
+### Demo
+
+<img src='https://github.com/MusadiqPasha/FlowFree-Solver/blob/main/demo.gif'>
+
 # Features
 
 - Solver Algorithm: Utilizes the Z3 solver to find optimal solutions for Flow Free puzzles.
@@ -28,11 +32,6 @@ Leveraging the power of the  `Z3 constraint solver` Z3 constraint solver, the bo
 - It'll automatically detect the colour of the Circle and feed's the matrix into the `Z3 solver` which use's `SAT` to solve the puzzle.
 - Finally It'll display the path to be taken for each colour and drag's the mouse over to those co-ordinates ultimately connecting the two pipes.
 - By default it will solve 10 Puzzle's in a row.
-  
-### Demo
-
-<img src='https://github.com/MusadiqPasha/FlowFree-Solver/blob/main/demo.gif'>
-
 
 # Disclaimer
 This bot is designed for educational and entertainment purposes. It is not intended to be used for cheating or exploiting game mechanics.
